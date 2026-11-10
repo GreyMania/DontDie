@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "e4da55fc-cc5f-45b9-9ffe-328b61f6a758",
+  "name": "test again",
+  "symbol": "bg_test_again",
+  "tileColors": "",
+  "filename": "test again.png",
+  "width": 75,
+  "height": 18,
+  "imageWidth": 600,
+  "imageHeight": 144
+}

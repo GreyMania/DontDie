@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "02db3b72-26ed-40ea-8361-ee46e5617508",
+  "name": "snooper",
+  "symbol": "bg_end_copy_",
+  "tileColors": "",
+  "filename": "snooper.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}
