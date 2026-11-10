@@ -1,0 +1,58 @@
+{
+  "_resourceType": "trigger",
+  "id": "06708acb-f838-4dab-aec9-2ea926660ebc",
+  "name": "",
+  "prefabId": "",
+  "x": 18,
+  "y": 17,
+  "symbol": "trigger_15",
+  "prefabScriptOverrides": {},
+  "width": 1,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Snooping as usual,\nI see?"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "d8d5cd03-2e0e-4a65-88a0-162577eb55bd"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "a0570f8a-ac47-4acf-a281-1d5a1e86fe13",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "4ea36af1-1d4e-4c95-8ddb-419c0491ffb6"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 1
+}

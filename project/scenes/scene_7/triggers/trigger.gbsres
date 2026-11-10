@@ -1,0 +1,41 @@
+{
+  "_resourceType": "trigger",
+  "id": "cc65322f-60e7-48a1-a386-11553447b869",
+  "name": "",
+  "prefabId": "",
+  "x": 1,
+  "y": 1,
+  "symbol": "trigger_16",
+  "prefabScriptOverrides": {},
+  "width": 18,
+  "height": 7,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "You dirty little\nsnooper."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "75ea21f3-f322-4c3e-988e-5d7779abdbd4"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}
