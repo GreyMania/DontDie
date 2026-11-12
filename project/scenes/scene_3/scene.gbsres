@@ -14,8 +14,8 @@
   "collisions": "003bd+0f12+0039+0f12+002a+0f7+008+0f12+002a+0f7+008+0f25+00a+0f7+006+0f7+008+0f25+00a+0f7+006+0f7+008+0f12+",
   "autoFadeSpeed": 1,
   "symbol": "scene_3",
-  "x": 168,
-  "y": 310,
+  "x": 712,
+  "y": 30,
   "script": [
     {
       "command": "EVENT_MUSIC_PLAY",

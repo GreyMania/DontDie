@@ -25,6 +25,13 @@
       "id": "e220b71e-cdd4-4878-a8ad-11fe174567c6"
     },
     {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "d7b17d7a-6f05-482f-a911-a230321a61fb"
+      },
+      "id": "21a6f48d-eba3-4bfb-92a8-9edf142dc02c"
+    },
+    {
       "command": "EVENT_OVERLAY_SHOW",
       "args": {
         "color": "black",
@@ -59,7 +66,7 @@
     {
       "command": "EVENT_SWITCH_SCENE",
       "args": {
-        "sceneId": "ea7a9ed0-9f60-437c-b673-eedf0a250b8e",
+        "sceneId": "06754840-da66-4226-b6c5-280cf3a86513",
         "x": {
           "type": "number",
           "value": 0
