@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "8fa4ae29-38c7-49ed-8fdb-cd77b1320508",
+  "name": "Level 6",
+  "symbol": "bg_level_6",
+  "tileColors": "",
+  "filename": "Level 6.png",
+  "width": 100,
+  "height": 18,
+  "imageWidth": 800,
+  "imageHeight": 144,
+  "autoColor": true
+}
