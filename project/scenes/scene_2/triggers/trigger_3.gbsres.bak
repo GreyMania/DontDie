@@ -1,0 +1,54 @@
+{
+  "_resourceType": "trigger",
+  "id": "28685d6d-bb8a-495f-a7f2-460a5ff2a2a3",
+  "name": "",
+  "prefabId": "",
+  "x": 1,
+  "y": 1,
+  "symbol": "trigger_26",
+  "prefabScriptOverrides": {},
+  "width": 15,
+  "height": 7,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "This is a\nprerelease build\nof Don't Die.",
+          "Because of this,\nthe game is likely\nunfinished.",
+          "This means you\ncould experience\nthings like...",
+          "Missing levels,\nbugs, ect.",
+          "For the best\nexperience, please\ndownload a release",
+          "build of Don't Die\nby GreyMania.",
+          "However, this\ndoesn't mean you\nhave an",
+          "unauthorized ROM!\nGreyMania also\ndistributed",
+          "beta ROMS of the\ngame for everyone\nto download!",
+          "You may have just\nclicked the wrong\ndownload link!",
+          "If you want to\nkeep this ROM, go\nright ahead.",
+          "Beta ROMS of games\nare really cool to\nhave, and it's",
+          "exciting when one\nis dumped!\nGreyMania loves",
+          "betas!"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "7190e4c6-7920-4808-9e69-b38fa9f6af03"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 2
+}

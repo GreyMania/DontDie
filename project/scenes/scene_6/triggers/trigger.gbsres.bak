@@ -1,31 +1,42 @@
 {
   "_resourceType": "trigger",
-  "id": "6a306912-99e5-4a73-8a4d-860b3d446f7d",
+  "id": "df942f54-d27f-415d-9c1d-4f6b45beb918",
   "name": "",
   "prefabId": "",
-  "x": 0,
-  "y": 8,
-  "symbol": "trigger_11",
+  "x": 1,
+  "y": 1,
+  "symbol": "trigger_14",
   "prefabScriptOverrides": {},
-  "width": 8,
-  "height": 5,
+  "width": 18,
+  "height": 6,
   "script": [
     {
-      "command": "EVENT_SWITCH_SCENE",
+      "command": "EVENT_TEXT",
       "args": {
-        "sceneId": "4faf3a25-e701-4947-b109-90b370e283b3",
-        "x": {
-          "type": "number",
-          "value": 0
-        },
-        "y": {
-          "type": "number",
-          "value": 0
-        },
-        "direction": "",
-        "fadeSpeed": "2"
+        "text": [
+          "This prerelease\nbuild of Don't Die\nhas ended.",
+          "Please download\nany release\nversion to",
+          "continue playing.\nThis game was\ncreated by",
+          "GreyMania."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
       },
-      "id": "0dcfc305-5c5a-4a96-8cb6-ed26cbc2d7c4"
+      "id": "ee75ca81-3b2f-43a7-975d-060f5bc734d6"
     }
   ],
   "leaveScript": [],
