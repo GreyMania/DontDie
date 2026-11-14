@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "3930c372-d9bc-420d-a4a2-ed2a03657fa2",
+  "name": "run from red screen",
+  "symbol": "bg_run_from_red_screen",
+  "tileColors": "",
+  "filename": "run from red screen.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}
