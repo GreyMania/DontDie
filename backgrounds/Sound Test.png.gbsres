@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "353f6929-f1b6-4206-9e60-8a6d8f72710d",
+  "name": "Sound Test",
+  "symbol": "bg_sound_test",
+  "tileColors": "",
+  "filename": "Sound Test.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}
