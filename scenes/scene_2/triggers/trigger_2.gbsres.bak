@@ -1,0 +1,43 @@
+{
+  "_resourceType": "trigger",
+  "id": "13410006-be0b-4582-887b-0030e4bad535",
+  "name": "",
+  "prefabId": "",
+  "x": 12,
+  "y": 14,
+  "symbol": "trigger_24",
+  "prefabScriptOverrides": {},
+  "width": 6,
+  "height": 3,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Level design and\nscreen design:\nGreyMania",
+          "Level and end\nscreen music:\nRulz",
+          "Huge thanks to the\ncreator(s) of\nGB Studio!"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "f9084290-0a16-4489-9cdf-6832a6a66923"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 1
+}

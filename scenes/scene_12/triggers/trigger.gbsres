@@ -1,0 +1,23 @@
+{
+  "_resourceType": "trigger",
+  "id": "a75bace5-43d7-461f-8dff-62105c046df7",
+  "name": "",
+  "prefabId": "",
+  "x": 18,
+  "y": 12,
+  "symbol": "trigger_39",
+  "prefabScriptOverrides": {},
+  "width": 2,
+  "height": 2,
+  "script": [
+    {
+      "command": "EVENT_PLAYER_BOUNCE",
+      "args": {
+        "height": "high"
+      },
+      "id": "2be713ea-e57c-4150-af54-76bd9491d984"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}
